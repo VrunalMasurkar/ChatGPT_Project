@@ -1,0 +1,614 @@
+Question,Answer
+"Before starting with the main questions, Dr. Schoepf, how are you today? How has the week been in preparing many projects for students starting in EPICS? How well can you manage it?",null
+"As part of the preparation process for this interview, we researched important information about you in the ASU Search page and LinkedIn and were intrigued to learn that you graduated with a PhD in Chemical Engineering. Why did you decide to follow this path? How does the knowledge you gained not only during your PhD but in your bachelor's and master's degree as well has helped you in aiding students?",null
+"Part of your research has been centered around the detection of nanomaterials in aqueous and solid environments. Additionally, you co-founded SafeSIPP, a company focused on clean water solutions and thus, water purification. Based on the knowledge gained, how feasible is it to develop the project that we are trying to build: an acid-water detection device? What are the difficulties that we might encounter or must deal with in the short term and long term?",null
+"What is the problem in concrete? In other words, are there any additional details besides the ones on the project’s webpage that we should be aware of?",null
+"What does the sensor need to record to detect pH levels? How much focus should we put on cofounding factors like temperature, air pollution, among others?",null
+What data do farmers expect? Do they want detailed records in graphs or are they comfortable with only knowing the pH level: whether it is acidic or not?,null
+How persistent is the problem today compared to a year ago? Has there been any major changes that we should take into account?,null
+Who are the stakeholders/users of the project and how do they intend to use the solution?,null
+What is currently being done to monitor rainwater acidity in the target regions of Vietnam?,null
+What are the current problems with the pre-existing design that we should account for?,"Before ending the interview, based on your expertise and knowledge of the topic, which additional resources would you recommend us to follow/learn that could help us in designing"
+"the project, understanding the science and technical demands required to bring the project to life?",null
+What is the expected timeline for this project?,null
+Is there specific software we should be using to create the database or is it up to us to choose one?,null
+What are the needs this project must meet?,null
+What are the issues with the current system being used?,null
+Were there any issues with the previous semester’s proposal for this project?,null
+What type of data needs to be shared through the database?,null
+Why did the previous team leave the project?,null
+What server will be hosting our database?,null
+How often should we communicate with the study abroad team?,null
+How many teams are we expected to work with?,null
+What is the current system being used to store their data?,null
+How are we going to access our chosen team’s data?, null
+What is the problem you are trying to solve?,null
+What is your ideal product at delivery?, null
+What is the scope of the project and where do you see it heading?,null
+What is the probable payload?,null
+What are the probable deadlines for the project?,null
+When can we set up another meeting?,null
+What crops do you usually plant in the area?, null
+Does Encounter use any fertilizers or pesticides?, null
+Are there any materials on site we can use for the project?,null
+What Do you like or dislike about the current Flood system?,null
+What do you wish it would be different?, null
+What is your opinion on sprinkler systems and drip irrigation systems?, null
+What is your current method of controlling the irrigation system (if it is automated)?,null
+"What kind of storage system would you like, Natural (lake/pond) or Artificial (Tank)?",null
+Does the church impose regulations about what can and cannot be done?,null
+What is the main purpose of the screen? Why do you want it in the museum?,null
+What size do you want the interactive screen to be?,null
+What information do you want shown on the screen?,null
+What kind of interactive components would you like to implement on the screen?,null
+What is the age demographic of the target audience?,null
+"Is there an intended budget for this project? If yes, what would be the allotted amount?",null
+Is the content to be displayed prepared already?,null
+How many screens to be displayed in the exhibit?,null
+How would you want the screen to be positioned?,null
+How often do you want the content displayed on the screen to be updated?,null
+"Despite finding the previous team member’s old documents, we have been unsuccessful in picturing how far along the project had come. Do you have any experience with the previous models? And if you do, would you mind telling us more about the original prototype?",null
+"What is your experience with the channels used by the previous team such as ROS2, SLAM, and weed detection?","How can we better tailor this project to your needs as a community partner? The previous team covered a lot of ground but since we are starting from scratch now, now is a great time to implement more things into the initial model."
+What made you get involved with this project in the first place? Did you reach out to EPICS or did the Farmbots team reach out to you?,null
+What has your overall involvement looked like with the team? Are you involved in the heavy technical aspects as well or do you focus more on design initiatives and pain points?,null
+"Do you have any contact with the previous members of Farmbots? If so, could you relay their contact information to us?","Were there any integration challenges from the previous model that you know of? If so, we will do our best to avoid that aspect of design."
+"Are there any specific communicational milestones that you expect from us? Would you like us to email you weekly, monthly, or just when the project is successfully updated?",
+"Some of the previous documents refer to an autonomous movement detection program; however, when looking through the documents that the old members had left behind, we could not find any examples of this program, unlike a lot of other aspects of the previous prototype. Do you have any experience with this program?",null
+Is there an alternative method of communication that you may prefer to email and Zoom. We noticed that you had a WhatsApp group with the old members of Farmbots. Would you like to set up that group during our meeting?,
+What is the problem that you are facing?,null
+What aspects of our designed solution are most important to you?,null
+Can you provide details about the specific challenges the person in the wheelchair faces while shopping for groceries independently?,null
+"How does the current process of assistance in grocery shopping work, and what are the limitations of this method? Why do you need dogs instead of humans?",null
+Are there specific types of food items or sections in the grocery store where assistance is needed more than others?,null
+What kind of training or assistance has been considered for the service dog to perform tasks such as grabbing items off the shelves?,null
+"Have there been any attempts or solutions in the past to address this issue, and if so, what were the outcomes?",null
+Can you describe the characteristics or skills that would be essential for a service dog to successfully assist in grocery shopping?,null
+Are there any safety concerns or considerations that need to be taken into account when designing a device or training aid for the service dog?,null
+"How comfortable is the person with the idea of relying on a service dog for grocery shopping, and are there any specific preferences or concerns they have?",null
+Are there specific regulations or guidelines that need to be followed in training service dogs for such tasks in public places like grocery stores?,null
+What level of collaboration and involvement is expected from the person in the wheelchair in training the service dog for grocery shopping tasks?,null
+Are there any additional resources or contacts you would recommend for us to explore in the context of service dog training for grocery store assistance?,null
+Can you share your experience working with service animals or projects similar to PowerPaws?,null
+Are there specific training methods or certifications that you believe would be beneficial for a service dog	in	this	context?,null
+"What is the extent of the disability the disabled person has, is he/she able to move his/her hand?",null
+What is the budget?,null
+How are dogs currently introduced to working with wheelchairs?,null
+Why is there a problem with it currently?,null
+What are the safety concerns?,null
+"What are the dogs' current reactions to the wheelchair? Scared, confused, defensive?",null
+What kind of actions or activities will the dog and trainer be expected to do?,null
+How long is the training process?,null
+Why is it this long?,null
+What’s your company’s approach to meeting individual needs?,null
+What breeds and sizes of dogs will be used for training?,null
+What kind of wheelchairs will be used for training?,null
+What constraints are there on the solution’s size or placement?,null
+How many dogs are we going to be training?,null
+What differentiates your organization from others?,null
+What are the previous successes and failures you had with wheelchair users?,null
+What kind of permits are required to be in appropriate operating conditions for the city of Tempe?,null
+Are there any specific zoning laws on the street?,null
+What are the usual costs for obtaining the proper permits?,null
+Would there be any concerns about the cleaning robot's operating hours?,null
+How frequently should the robot be operated?,null
+Could it be once a day? Every few days?,null
+Would it be possible to have some sort of charging/storage space for the robot when it isn’t operating?,null
+Are there concerns about the sustainability of the robot?,null
+Would the city require some sort of city department or student organization to maintain the robot once the project is delivered?,null
+Would there be someone to dispose of any trash or debris that the robot would pick up?,null
+"In terms of design decisions, would you prefer for there to be an on-board rechargeable system through solar panels and batteries or a station for the robot to recharge at?",null
+Are environmental conditions a huge concern?,"We have considered using materials that could be sustainable under the intense summer heat, the colder conditions in the winter, dust buildup, and other precautions that will be required to be taken in weatherproofing."
+How might the augmented reality map address accessibility concerns for users with different needs?,null
+What challenges or pain points have you faced regarding navigation on campus that the augmented reality map could address?,null
+What specific areas on campus have been identified as challenging to navigate for ASU students and faculty?,null
+What are the preferred development platforms or environments for building the augmented reality map?,null
+What devices/OS is the augmented reality map intended to work on?,null
+Why did you decide you wanted to work with augmented reality to accomplish this task?,null
+"Why do you think that an augmented reality map would best address any navigation concerns for individuals on campus, especially for those who require accessibility accommodations?",null
+Why do you think the existing navigation tools for ASU may fall short in meeting the needs of new students and faculty?,null
+Are there any existing technologies or platforms that you are currently using for the existing problem?,null
+"Are you planning to implement the map indoors, outdoors, or both?",null
+Can you share examples of similar initiatives or projects that were successful?,null
+Why are you Interested in this project?,null
+What qualities do you look for in your potential partners?,null
+How are you going to help us achieve this goal?,null
+Why do you believe your food bank was successful?,null
+How does your food bank collaborate with other organizations?,null
+What food items were commonly requested?,null
+What specific groups or demographics have you targeted?,null
+How did you approach different businesses for food? Was it difficult?,null
+What challenges are you still facing?,null
+Why are foodbanks necessary in college?,null
+Why is your college working alongside St. Mary’s Food Bank Alliance specifically?,null
+"Besides providing food, how else has St. Mary’s Food Bank helped start this food pantry?",null
+How much does it cost to maintain a Food Bank?,
+What sport or sports are you interested in having an adaptability device for?,Soccer (primary)
+What makes those sports currently inaccessible to some people?,"Depends on the sport, more information could be gained from talking to athletes"
+"What specific problem in the current market for athlete's prosthetics are you trying to solve? In other words, what criteria would a successful design meet?",The market potential for adaptive sports is larger than we think
+(Follow up to #3) Why does this problem in the market exist?,"Cost, especially a barrier to someone with additional medical issues given that there is no medical waiver / insurance help"
+Will we be designing a prosthetic for a specific individual or individuals?,"No, we could speak to athletes to learn more"
+Which specific body part would you like us to design a prosthetic for?,null
+What kinds of accessibility devices do people without mobility in that area currently use in daily life? Do you know specific examples of such mobility brands or products?,Personal modification of existing mobility devices is common for specializing in certain sports
+What is the most common adaptive sports equipment?,"Running equipment, the blade prosthetics used for running are currently a thousand $ or more"
+What are the current issues/challenges you have with the devices?,Expensive
+Like selling different shoe sizes?,How do we bring the cost down (change in material or manufacturing design?); should be more customizable so that customers do not need to modify it themselves
+"There are some sports that change rules once adapted (i.e. wheelchair fencing). Should this device create a new version of the sport, or allow more people to play with the existing rules?","Not against sports with different rules, it is common in paralympic games"
+"Considering these devices could be used in high force impacts, what features might make it more comfortable for the user?",
+"If this is a professional sport, does the device need to fit within certain regulations?","General public is the ideal market, most of those people will not be pros"
+How much would you be willing to pay for such a device?,"Audience being general informs the price, should be kept low"
+How long would you be willing to wait if the device had to be custom-fit?,"Customization is almost a necessity, since no two disabilities will need the same device"
+What type of prosthetic is needed?,null
+Which activities are you most excited to do with your prosthetic?,null
+Is there one thing the prosthetic must have?,null
+Who is your target customer/who do you want to build the prosthetic for?,null
+What are some issues with current prosthetics on the market?,null
+What type of financial or funding challenges do you face in providing affordable prosthetics?,null
+Would the prosthetic be used as an everyday tool or for special high intensity activities such as playing sports?,null
+What is the budget for prosthetic production?,null
+Would the prosthetic be catered towards a certain age group?,null
+How do we find stakeholders in the community for the prosthetic?,null
+"When focusing on bilateral amputees, what kind of attachment to the board gives them the most stability, and accessibility to make turns and quick movements? When building a snowboard for a bilateral amputee, what is the best size board for them to get the most control?",null
+Is there a certain amount of space we need to have between the bindings/attachments that could be regulated/mass produced?,null
+"How much help can we expect the amputees to have when getting into the snowboard, help from others or entirely alone?",null
+"How structurally sound should we require these boards to be? Will these boards be more low action recreational, or should we expect amputees to be performing significant jumps?",No need to worry about jumps and other things like that. More of just the enjoyment of the ride.
+"What are design implications that you feel have been overlooked or brushed over in the past, and how can we address them more effectively?",Going to send us photos
+"What are the most important features in a piece of adaptive equipment, can you rank them, and tell us why they are ranked in the order that they are?",null
+"What would be your preferred way to travel across flat surfaces? Do you want to be able to unstrap one leg from the board and skate (push off with one leg and glide on the snow with the leg that’s strapped to the board) like snowboarders usually do, or would you prefer to unstrap both legs from the board and walk?","Stays clipped in for stability, uses outrigger to push and other people to pull him."
+What has the production price been in the past and what was one major factor that led to the price making it an inaccessible product?,"Shocks were $600 to $800. Makers shed, aluminum and bolts."
+Are there any safety precautions specific to snowboarders who are above the knee amputees that we should take into consideration while designing a snowboard?,Suspension! Mountain bike shock or similar Notes:
+How can we proceed with the existing solution?,What considerations were taken while designing the current solution? Ugenia
+Have your requirements changed or still remain the same?,What are the complications and possible solutions? Ugenia
+Could you briefly explain what the problem is in your own words?,null
+"Are there any specific milestones or goals you hope to achieve in the next stages of the project?(How can the team best support your vision for the ASL translation glove, considering factors such as budget constraints and user accessibility?",null
+"Are there any specific technologies, materials, or methodologies you are considering, or would you prefer us to explore for the next phase of the ASL translation glove project?",null
+What are the key challenges you foresee in the implementation or adoption of the ASL translation glove?,null
+Q1. Are there specific reporting formats or requirements we should follow? Q2. Are there plans for ongoing monitoring or maintenance of the pond?,null
+Q3. What is your preferred timeline for completing the Pond Water Testing and Improvement project?,null
+Q4. Are there any specific milestones or deadlines that we should be aware of? Q5. How did you become interested in addressing pond water quality?,null
+Q6. How often/how should we plan trips to the pond in order to conduct tests/test solutions?,null
+Q7. What’s the severity of the contamination and if there are any seasonal changes in the contamination?,null
+Q8. How do you envision sustaining the improvements in pond water quality beyond the duration of our project?,null
+Q9. Are you open to both natural and artificial solutions or do you have a preference for a particular method?,null
+Q10. Are there specific water quality testing methods or standards you would like the project to follow?,null
+How did your team go about helping farmers stop clearing mangroves to make way for shrimp farms?,null
+How can we try transitioning from using litmus tests that the farmers use? How inaccurate are they in testing water quality?,null
+Why do many shrimp farmers dislike the idea of using mobile technology to test water quality? Is there a way to make technology more accessible/easy to use for them or do they not want to use any hand-held technology devices to assist in monitoring water quality?,null
+"Have there been any initiatives to start recycling water instead of constantly using groundwater, or is that too expensive? Is there a way to stop seawater intrusion or test salinization, as pumping water is one of the reasons why there are high costs of shrimp farming which is causing the sinking of the Mekong Delta.",null
+"Have you attempted to limit antibiotic use in any of your projects, due to antibiotics causing resistant bacteria strains?",null
+"Which of the factors affected the water the most – salinity, pH, oxygen, temperature, and dissolved nitrogenous compounds, or were all the factors equivalent in affecting the water?",
+"Are there any ways to decrease costs of larvae and equipment, any substitutes?",null
+"Many farmers take on loans due to a loss in crop yield, and there is a lack of a banking system in Vietnam. How can we consider these factors while developing our design?",null
+"As a business and investment officer for SNV in Vietnam, how have you dealt with creating sustainable farming practices in Vietnam while maintaining a budget?",null
+"Do you integrate with local Vietnam transportation to transport shrimp, or do you have a plan or different system to combat transportation GHG emissions?",null
+"How does small scale shrimp farming compare with commercial shrimp farming methods? If not, is there a way to get governmental assistance to bridge the gap towards implementation?",Attach a screenshot of an email approving your questions by your AA or UGTA of your nightly team section.
+How can your knowledge in Environmental Law help us develop our sustainable gardening practice?,null
+How does Environmental Law and carbon removal tie in with our project?,null
+Why do you think you’d be most qualified to help our group?,null
+"What were the most impactful business experiences have you had, and what can you teach us based on those experiences?",null
+What is your preferred form of collaboration with teams?,null
+"Currently, our team has no community to put our project in. What are some communities you know that can benefit from our solution?",null
+How would you communicate the needs of said community/communities to us?,null
+How willing are you to commit yourself to guiding this team until the project is self-sufficient?,null
+What is your process of giving feedback and sorting through problems?,null
+How available will you be when it comes to making time for meetings?,null
+1. Would it be possible to modify the existing wind tunnel to allow for wind visualization with something like liquid nitrogen?,null
+2.Approximately how much force is produced by the box fan and is it multi-speed?,null
+3. What shape are the fan blades? Is it a dual fan system?,null
+4.How many models would be ideal for the in-class demonstrations?,null
+5. Should the wind tunnel be collapsable?,null
+6. What are the dimensions of the wind tunnel like how much weight it can hold?,null
+7. Is the wind tunnel movable?,null
+8. Do the activities have to be automated? Can the activity be operated via digital commands or are manual inputs preferred?,null
+9. Are there certain components of the design that would be off limits to modify?,null
+10. How many activities should we have?,
+Do you have a budget range in mind for this project?,If they don’t have anything in mind check to see the limits both high and low.
+What are you looking to accomplish this semester?,Ask anything detailing what they’d like to see for an end goal.
+About how many volunteers tend to the garden weekly/monthly?,null
+What organic/nonorganic materials will be put in the composter?,null
+What are your expectations for us moving forward in the project?,"Progress, professionalism, contact, on-site visits, etc."
+Are there any requirements regarding the size and capacity of the composter?,null
+Are there any challenges faced in the garden that the composter can combat?,null
+Are aesthetics an important factor in your requirements for the composter?,null
+What are common environmental factors that we should consider?,null
+Is this a large-scale composter/final product or is it smaller scale?,null
+The problem stated is: Unsustainable maintenance systems for volunteer-run garden. What maintenance systems are currently in place / and unsustainable?,null
+What is the desired estimated duration of the flight?,null
+What is the weight limit desired for the drone?,null
+What were the limitations of the current solution you want improved on? What is the difference between the desired outcome and the current solution?,null
+Are there any specific guidelines on how the drone must be built?,null
+"Are there any other specific needs for the user? If not, how would you rank the current requirements/criteria you provided?",null
+What kind of real-life applications will the drone be used for?,null
+How would you envision the delivery process to be carried out?,null
+Are there any plans to scale up the operation in the future?,null
+What kind of items will the drone carry?,null
+Are there any safety concerns you would like us to consider?,null
+"Based on the prototypes that we presented during our design review, are you planning on implementing something like either or both options we showcased?","Your feedback I believe was: paracord bridges are great for private/ less traveled areas, and the bamboo slat design would be great for larger/ more visible roads."
+"Ultimately, our research has shown that the wire rope clips would be very beneficial with any monkey bridge that you decide to use as they are adaptable, secure, and will not choke the tree they are attached to. Do you agree and plan on using these clips (you do have the clips in your possession btw)?",null
+"A few months ago, Tatum sent you the website you requested about the Langur monkey bridge project in Malaysia. Have you had the chance to look over their design and project? What do you think?",null
+"Before we build full-scale prototypes, is there anything you would like to see done differently this time around compared to the two designs you saw in Vietnam?",Align on testing plan: we share our current plan (see design doc) and verify with Anthony that this will be adequate design verification (does he want to see anything else?)
+"Plan for the spring semester: We will be working on the project with new teammates, and we will try to make great improvements. What should we prioritize for this semester?",null
+Are there any resources you can give us for the project's development? Do you see any challenges that we might have while making the project?,How can our team get feedback from you as you are in Nepal right now and the communication is the key to improving the project for the community.
+Should our industry mentor get certified too since she will be helping review and analyze the results?,Deliverables for this semester
+What are your expectations for us this semester outside of the survey?,null
+Are there any other research / bugs within the app since starting the project we can work on in the meantime?,null
+What progress are you hoping for us to make in the process of getting the survey out?,We are considering sending informal surveys within the class to get feedback on it before formalizing and sending it out to other students.
+"How has the situation changed in the camp, has it worsened, or is it getting better?",null
+What is the current process of obtaining cooking fuel in the refugee camp?,null
+"What resources are available to us right now, and how many people are involved?","What resources are available to the refugees in the camp, (materials, tools, supplies)"
+"If you don’t know any of the answers to these, who might?",Are there any contacts that you believe would be beneficial for us to have
+What else do you think would be helpful for us to know about?,null
+Can you re-lay out the details of the final deliverable for us?,null
+Would you approve of sending them certain materials to finalize their builds that would otherwise be difficult to attain?,null
+What are the product expectations this semester?,Establish design requirements
+What is the specific scope of this project?,What is your expectations from us throughout the semester 3.
+More noise reduction or more energy or 50/50?,null
+Practically/Simple or Complex?,"Solar Panels; Size, Brand, R-Values, STC (Sound Transmission Class) Timeline/Plan:"
+"Determine what our progress goals should be for this semester. Specifically, how far do we need to be in the prototyping process for both our physical vehicle and our mobile app by the end of the semester?",null
+the current safety escort system are insufficient for the community’s needs?,null
+At what point should our team move on from our first prototype iteration to our second prototype iteration?,null
+How do you plan to support us during this process?,"In terms of our projected timeline, do you believe the current timeline we have come up with is doable in the amount of time we have? (Week 8 we hope to have a protype completed)"
+What do you think about how we are testing the product? Do you have any suggestions on how we could test our product?,"A: diff liquids to test besides water , like the gel that is inside ice packs"
+Does our design from last semester still hold up to the standards of what our project expects us to deliver?,"A: time , temp, how long does it stay, when does it drop (variables to test with our protype), how much liquid and linear feet of line (do the mathhh), need to find product of flow before flow of product rate"
+Does our testing plan cover all areas of testing required for a successful product?,
+How important should the ease of movement be compared to the scale of cooling that the vest provides?,null
+What do you envision a successful project workflow to look like?,null
+"Has there been any new system currently established or prototyped in the healthcare infrastructure that is responsible for allocating and assigning patients to ECMOs (ventilators) based on their medical needs and priority levels? Since our last meeting, has there been any change in the needs that need to be addressed by our project solution?",null
+Is there an opportunity to allow us to walk through the current healthcare system in person to understand the entire process from start to finish?,null
+"Since our previous meeting, have there been any alterations or developments in the project requirements or specific needs that we should be aware of, prompting a reassessment or adjustment of our current approach?",null
+How do you think we can assess the impact of our app on healthcare delivery in Arizona Information? Guidance?,Ask if he knows any other local organizations we should seek to contact that he knows works hands on in these parks
+Does Jesse already have prosthetics he uses?,null
+What specific activities would Jesse like to be able to do?,null
+How does Jesse currently do those activities? Such as mechanics and playing computer games?,null
+What are the struggles with the way he is currently doing those activities?,null
+Is there one activity in particular that Jesse wants to improve functionality with?,null
+Implementation questions – How can we deploy one element of the system inside and one outside the houses?,null
+Construction of the houses – how modern are they?,Current electrical status of houses in need
+What kind of things do people in Shonto need to power?,null
+"Refrigerator, lighting, AC, etc?",null
+What kind of lights do people have?,null
+What kind of materials are the houses built out of?,null
+"Do some people in Shonto have electricity, if so what kind of things do they use it for? Do they use solar panels, or do they have power lines running to their house?",Statement of Work/Current Semester Plans
+Last summer we determined that for travel to Kenya in 2024 we do not need to be there as long as 2.5-3 weeks as we did last year. What is the timeline that you suggest for this summer’s travels?,null
+"This summer we have the Well Team traveling to Kenya for their assessment trip and the BTTC Team traveling for their implementation trip in Kenya. Since transport is often an issue in Kenya, do you suggest these teams travel at the same time, overlapping times, or completely different times?",null
+"Last summer we determined that having more people than fit in a typical 7- or 8-seater van per project is too many to easily travel with in-country. There are much more people on our teams than 5 people, accounting for our industry mentor, the driver, and our travel guide. How do you suggest we determine who gets to go on the trip?",null
+What timeframe works for you to travel to Kenya this summer? Last summer we agreed that we would rather finish our trip and return earlier than before. This is because it ran right into move in/ move out days for students and close to school starting. Are you still on board with this?,null
+Last semester our BTTC Team completed their first rounds of prototypes and have been working on prototyping more this semester. How do you think their new prototype and new area of concern seems regarding their prototypes up to this point? Are they heading in the right direction?,null
+"The Well Team is working on a great project! However, the materials for it are expensive. How do you suggest we go about funding these materials?",null
+"Since the BTTC In-Ground tank had issues before, do you think there will be issues again or are we taking the correct precautions to mitigate such instances of failure?",null
+How will the community of which the Well is being implemented keep strangers or those not part of the community from gaining access to the Well?,null
+Have we heard any updates from JOOUST regarding their desire to have us help them implement an environmental/ sustainable civil engineering curriculum at their institution? Do we plan on meeting with them again this summer?,null
+Have there been any damaging floods in the past few months that you’re aware of?,null
+Are there any other plans for construction or landscape work in the area?,null
+"Issue of invasive trees: Although we would like to help in removing the trees as they counter our efforts to restore the aquifer and could be used as natural material for induced meandering, we don’t think we could cut down anything above fairly small trees with our current abilities. Is there a way to remedy that or should we forgo that aspect of the solution?",null
+Are there any other good sources of wood and rock nearby?,"Issue of meeting time: We appreciate being able to present during your leadership meetings, but we would prefer to have a dedicated contact and opportunity to meet outside of the SCG leadership meetings. That way, it is easier for us to get in touch outside of meetings and we don’t need to take up time in your leadership meetings."
+Is a shipping plan part of the E-guide?,Ask about what kind of plans Jasmine is looking for post project.
+What kind of detail are you looking for from the E-guide?,null
+Should we be formulating the prices for the Kickstarter tiers?,null
+What areas are you willing to compromise on if time is short?,null
+How can the team best communicate with you?,null
+4.) Could you give me some days that could be good for us to come up to the hatchery? 5.) Are there any changes to your needs regarding the device’s functionality?,6.) What kind of evidence of functionality would you like us to do in order to prove the device’s
+effectiveness?,null
+Why hasn’t the problem been solved previously?,null
+What legal barriers are in our way currently?,null
+How many residents do you think you can connect us with for summer testing?,null
+Could we potentially use AAMHO to promote our product if so can you put us in contact with AAMHO?,null
+Can you look at our research paper?,
+What are any revisions in requirements you have since the last student and community partner meeting?,null
+Do you prefer to have the braille characters in smaller size or large sizes if the option is available? What is the run time of the braille you require each day?,null
+Does anyone in your team have the technical expertise to repair any small malfunctioning or replace parts?,null
+Do you need us to orient anyone from your team apart from you with our progress so far?,"We also plan to share a brief semester plan focusing on the prototyping phase and delivery before the Africa travel, and a quick rundown of the previous semester's design review. We would also ask for input and their opinions on the future design and planning."
+What’s your background?,"Single Family Housing (Donations, Food Drives, etc)"
+How long have you been with the HSC?,3 months so far into the position and will be replacing Dave Backus.
+What is your role? What questions should be directed towards you about the project?,Chaelee is the Project Manager.
+"Are 2,000 non-reusable water bottles being used daily at the HSC or is it more? What is the fl oz. for the water bottles being used? What is the brand?","Currently, the HSC does not hand out water bottles, a seasonal decrease but ramps up during May (through the heat relief months)."
+Are there renovations currently happening at the Human Services Campus?,"Answer: Renovations across the street for admin, Late October- Early November (2nd story to LDRC) as well as repainting and other projects."
+Is there a sewer/drainage system at the Human Services Campus where we can create a piping system of the residual water from the sanitation process into some type of waste?,"Outside by water trailer connected to the hose, St Vincent de Paul’s Elkay Filling Station"
+Is the Human Services Campus housing more homeless than last year?,Currently housing 1200 each day
+Is the demand for a Hydration Station higher?,"Currently no water is distributed, and this water is reserved for emergency use."
+Any other updated features you would like the Hydration Station to cover?,Durable and Nothing of Value Except Water
+Is there anything you want to refrain the Hydration Station from having?,Autonomous parts in cleaning and filling reusable water bottles
+Renovations happening at HSC?,Renovating place across the street for admin
+Is there a need for smaller wheels? Or is that just a problem with our current wheelchair that we are prototyping on?,Review statement of work
+Are there certain tests that can be done on our own to see if the wheelchair meets certain safety requirements?,Discuss timeline for deliverable by May 2024 (end of this semester)
+When is the best time to deliver the final prototype?,null
+Does the final prototype need to be done on a Mayo Clinic wheelchair?,null
+"What happens if we create a viable prototype, do we need to figure out all testing regulations first?",
+How can we get into contact with Parkinson’s patients in our area?,Is there anybody doing the exact same thing as us in the field of FES
+"One issue we faced was little variation between the change in pH with all 4 tiles. What are some of the more extreme conditions, or potential issues in the future (like Global Warming or Bleaching) should we test? What would be a better primary variable?",null
+"Regarding a potential coral nursery, how much area underwater would we be allotted considering Spanish regulations, and what would the budget be?",null
+"How are we going to place our product into the water, and what would the recovery or retrieval process be?",null
+Would supporting a current coral reef be more beneficial? Or should we attempt to create a new reef Environment?,null
+Does our current proposed steering design (spring based) raise any safety concerns?,null
+Are there any behaviors Quincy exhibits that you’re concerned may cause a loss of control of the bike?,null
+"How are we planning to engage with other stakeholders, such as end-users or potential beneficiaries of the bike project?",null
+"Seeing as how it was previously mentioned that riding bikes would be a method of socialization for Quincy, would you like us to ensure that his peers could possibly operate and steer the tricycle?",null
+User input feedback: we bought a throttle and switches to operate the motors that will be fitted to the cart; does the Community partner have any preference over which one we should employ? Did he have a different idea in mind?,null
+Does the CP think a mechanical hand-operated break (much like an e-break) will be needed for safety measures?,null
+Are we able to speak with other technicians and receive their input on the cart?,null
+What are some additional ways to receive funding for our project?,We will review our statement of work and discuss our plan for this semester
+Overview of materials ordered for both the prototype and testing rig. What is your experience with CAD?,null
+What is your experience with 3D printing?,Ensure that all required materials are accounted for.
+Confirm the shipping details and any specific requirements Are you concerned about the work being done?,Closing Remarks
+Do you have any apprehensions about our plans?,null
+Would you suggest us do anything that would make your prosthetic attachment better? How often would you use it in the off season?,Set expectations for future updates and communication
+What is the expected timeline for this project?,Aimed to be completed within the spring semester. Website development phase to database hosting to sync them with each other than creating the communication system with the farmers and then review.
+Is there specific software we should be using to create the database or is it up to us to choose one?,"It is up to us how we set up the communication system. Otherwise, specific software includes Python, SQL."
+What are the needs this project must meet?,"Communication with the shrimp farmers, Functioning self-updating database."
+What are the issues with the current system being used?,Arduino data point conversion to database and consistency in updating it.
+Were there any issues with the previous semester’s proposal for this project?,"The project proposal was fine, but they weren't able to achieve the goals in time."
+What type of data needs to be shared through the database?,"Data to be plotted in vs time graphs i.e. rate. Temperature, pH, Salinity"
+Why did the previous team leave the project?,There's another team working on it. They are catching up on it. They havent left it.
+What server will be hosting our database?,"We are looking at AWS hosting services now, or Firebase is a secondary option."
+How often should we communicate with the study abroad team?,Twice a week to have updates on their project post their group meetings.
+How many teams are we expected to work with?,1 stakeholder team – Shrimp Farming.
+What is the current system being used to store their data?,They dont have a system yet. They are developing a prototype in which the Arduino board will generate data.
+How are we going to access our chosen team’s data?,Using a reciever and extracting it with the help of software that is being decided as we move ahead.
+What crops do you usually plant in the area?,null
+Does Encounter use any fertilizers or pesticides?,"No, Encounter is organic."
+Are there any materials on site we can use for the project?,Encounter has basic gardening tools and a variety of extra materials such as fencing and wiring.
+What Do you like or dislike about the current Flood system?,Customer desires a more efficient system that can be more precise and where there is less spillover into the parking lot.
+Is there electrical access and are there outlets?,null
+What is your current method of controlling the irrigation system (if it is automated)?,null
+"What kind of storage system would you like, Natural (lake/pond) or Artificial (Tank)?",null
+Does the church impose regulations about what can and cannot be done?,null
+What crops do you usually plant in the area?,"The crops are varied, and they are depending on seasonality and need. We cannot know for sure whether or not we will plant the crops you see today at the site ahead of time for next season."
+Does Encounter use any fertilizers or pesticides?,"No, Encounter farms is organic and does not use any of the above.."
+Are there any materials on site we can use for the project?,Encounter has basic gardening tools and a variety of extra materials such as fencing and wiring. There are other tools on site but the selection should be considered limited.
+What Do you like or dislike about the current Flood system?,The farm desires a more efficient watering system that can be more precise and where there is less water waste and spillover into the parking lot.
+What do you wish it would be different?,We wish taht there was a storage system that allows us to water continuously in the summer months and to waste less water so we can increase growing capacity.
+What is your opinion on sprinkler systems and drip irrigation systems?,"We are open to drip irrigation systems but sprinkler systems would be too inefficient and a lot of water would evaporate. Not to mention, other concerns such as cost and electricity are important as well."
+Is there electrical access and are there outlets?,"There is no power on site, we have to have volunteers charge their tools before they come to the site and rely on gas powered tools."
+What is your current method of controlling the irrigation system (if it is automated)?,null
+"What kind of storage system would you like, Natural (lake/pond) or Artificial (Tank)?","Child safety and cost effectiveness are important. The church does not want a permanent installation, so any tank or pond is fine, but it has to be removable."
+Does the church impose regulations about what can and cannot be done?,"The solution must be cost effective and cannot be permanent (no concrete, etc), must be easy to remove."
+"1. Despite finding the previous team member’s old documents, we have been unsuccessful in picturing how far along the project had come. Do you have any experience with the previous models? And if you do, would you mind telling us more about the original prototype?",null
+"2. What is your experience with the channels used by the previous team such as ROS2, SLAM, and weed detection?",null
+4. What made you get involved with this project in the first place? Did you reach out to EPICS or did the Farmbots team reach out to you?,null
+5. What has your overall involvement looked like with the team? Are you involved in the heavy technical aspects as well or do you focus more on design initiatives and pain points?,null
+"6. Do you have any contact with the previous members of Farmbots? If so, could you relay their contact information to us?",null
+"8. Are there any specific communicational milestones that you expect from us? Would you like us to email you weekly, monthly, or just when the project is successfully updated?",null
+"9. Some of the previous documents refer to an autonomous movement detection program; however, when looking through the documents that the old members had left behind, we could not find any examples of this program, unlike a lot of other aspects of the previous prototype. Do you have any experience with this program?",null
+10. Is there an alternative method of communication that you may prefer to email and Zoom. We noticed that you had a WhatsApp group with the old members of Farmbots. Would you like to set up that group during our meeting?,null
+What is the budget?,null
+How are dogs currently introduced to working with wheelchairs? Why is there a problem with it currently?,null
+What are the safety concerns?,null
+"What are the dogs' current reactions to the wheelchair? Scared, confused, defensive?",null
+What kind of actions or activities will the dog and trainer be expected to do?,null
+How long is the training process?,null
+What’s your company’s approach to meeting individual needs?,null
+What breeds and sizes of dogs will be used for training?,null
+What kind of wheelchairs will be used for training?,null
+What constraints are there on the solution’s size or placement?,null
+How many dogs are we going to be training?,null
+What differentiates your organization from others?,null
+"Side projects – therapy dogs for courtrooms, partnering with the FBI for their canine needs 13) What are the previous successes and failures you had with wheelchair users?","Have not implemented training for wheelchair users yet, given the obstacles faced."
+What kind of permits are required to be in appropriate operating conditions for the city of Tempe?,null
+Are there any specific zoning laws on the street?,"A right of way permit is something that will need to be considered for testing, hours of operation, and other concerned matters. The team would also have to consider signage for designating the pilot section for testing the robot. The signs would also need"
+What are the usual costs for obtaining the proper permits?,Fees might likely be waived once signed off on. This is a concern of the engineering department.
+Would there be any concerns about the cleaning robot's operating hours?,Full size city sweepers typically sweep very late at night. Approximately from 2 am in the morning aiming to finish around 6 – 7 am. Operating hours would need to be at a different time to avoid conflict.
+How frequently should the robot be operated?,null
+Could it be once a day? Every few days?,Cleaning happens every 2 – 3 weeks when it comes to full-size sweepers.
+operating?,Unsure but more than likely will have to be a concern on ASU’S part.
+Are there concerns about the sustainability of the robot?,One thing to consider is the condition of the brushes that will sweep very old pavement. We must consider replacing and maintenance of the robot quite often for the process. We also need to consider larger items that the robot would not be able to pick up.
+Would the city require some sort of city department or student organization to maintain the robot once the project is delivered?,This will have to be continued student organization. There are too many things and regulations the city must uphold. They can accept just one organizations device.
+Would there be someone to dispose of any trash or debris that the robot would pick up?,The team must consider how often the trash and debris must be emptied. There is a container on site used for full-sized sweepers. The size of the robot probably would designate a much smaller load.
+"In terms of design decisions, would you prefer for there to be an on-board rechargeable system through solar panels and batteries or a station for the robot to recharge at?","As far as the current sweepers go, they use diesel or natural gas. Charging and power is up to the team."
+Are environmental conditions a huge concern?,"We have considered using materials that could be sustainable under the intense summer heat, the colder conditions in the winter, dust buildup, and other precautions that will be required to be taken in weatherproofing."
+What challenges or pain points have you faced regarding navigation on campus that the augmented reality map could address?,null
+"Why do you think that an augmented reality map would best address any navigation concerns for individuals on campus, especially for those who require accessibility accommodations?","The augmented reality map will be easier for students to use because it offers accurate visual guidance and is interactive with the user. With the augmented reality map, the user can have very clear directions of where they need to go."
+Are there any existing technologies or platforms that you are currently using for the existing problem?,There are no existing technologies or platforms that currently exist for this problem.
+Why do you think the existing navigation tools for ASU may fall short in meeting the needs of new students and faculty?,
+What specific areas on campus have been identified as challenging to navigate for ASU students and faculty?,
+How might the augmented reality map address accessibility concerns for users with different needs?,The augmented reality map addresses accessibility concerns for users with different needs because it will have a simple interface and be easy to use. This is because the augmented reality map includes a flag system that points to the direction of the building that the user wants to go to.
+What are the preferred development platforms or environments for building the augmented reality map?,There are no preferred development platforms or environments for building the augmented reality map.
+"What devices/OS is the augmented reality map intended to work on? Should it have maps for indoors, outdoors, or both?",null
+What are the budget considerations for this project?,null
+Can you share examples of similar initiatives or projects that were successful?,null
+What sport or sports are you interested in having an adaptability device for?,Soccer (primary)
+What makes those sports currently inaccessible to some people?,"Depends on the sport, more information could be gained from talking to athletes"
+"What specific problem in the current market for athlete's prosthetics are you trying to solve? In other words, what criteria would a successful design meet?",The market potential for adaptive sports is larger than we think
+(Follow up to #3) Why does this problem in the market exist?,"Cost, especially a barrier to someone with additional medical issues given that there is no medical waiver / insurance help"
+Will we be designing a prosthetic for a specific individual or individuals?,"No, we could speak to athletes to learn more"
+Which specific body part would you like us to design a prosthetic for?,open
+What kinds of accessibility devices do people without mobility in that area currently use in daily life? Do you know specific examples of such mobility brands or products?,Personal modification of existing mobility devices is common for specializing in certain sports
+What is the most common adaptive sports equipment?,"Running equipment, the blade prosthetics used for running are currently a thousand $ or more"
+What are the current issues/challenges you have with the devices?,Expensive
+Like selling different shoes sizes?,How do we bring the cost down (change in material or manufacturing design?); should be more customizable so that customers do not need to modify it themselves
+"There are some sports that change rules once adapted (i.e. wheelchair fencing). Should this device create a new version of the sport, or allow more people to play with the existing rules?","Not against sports with different rules, it is common in paralympic games"
+"If this is a professional sport, does the device need to fit within certain regulations?","General public is the ideal market, most of those people will not be pros"
+How much would you be willing to pay for such a device?,"Audience being general informs the price, should be kept low"
+How long would you be willing to wait if the device had to be custom-fit?,"Customization is almost a necessity, since no two disabilities will need the same device"
+"When focusing on bilateral amputees, what kind of attachment to the board gives them the most stability, and accessibility to make turns and quick movements?","Prosthetic attachments are standardized and called universal prosthetic pyramid adapters. So long as any attachment developed includes the universal adapter, then the boarder will be stable."
+Is there a certain amount of space we need to have between the bindings/attachments that could be regulated/mass produced?,"Zach Sherman has 19.5 inches between bindings, which is a little farther than shoulder width apart, and is ideal for snowboarding. The pylons on his protheses are modified to allow for his bindings to be that far apart without forcing him to spread his legs too far apart."
+"When building a snowboard for a bilateral amputee, what is the best size board for them to get the most control?","The board size really depends on the preferences/size of the boarder, but at around 4’10” with his prosthetics on and 105 lbs., Zach Sherman prefers a board size around 138, though he has tried boards in the range of 135 to 140."
+"How much help can we expect the amputees to have when getting into the snowboard, help from others or entirely alone?","The expectation is that the amputee has someone with them to help, whether that be pulling them along flat stretches or valeting their wheelchair."
+"How structurally sound should we require these boards to be? Will these boards be more low action recreational, or should we expect amputees to be performing significant jumps?","The board should be able to accommodate whatever level the customer desires, however, in the case of Zach Sherman, the board does not necessarily need to be able to endure any boarding beyond that of a moderate/recreational snowboarder, as making large leaps/jumps is not probable for Zach Sherman at this point in his boarding career."
+"What are design implications that you feel have been overlooked or brushed over in the past, and how can we address them more effectively?","The primary design implications that Zach Sherman reported to have been overlooked in previous designs were the weight of the prosthetic adapters and the lack of suspension, as heavy prosthetics and lack of suspension lead to pelvic and spinal stress and injury."
+"What are the most important features in a piece of adaptive equipment, can you rank them, and tell us why they are ranked in the order that they are?","Zach Sherman listed the most important features, in order, to include suspension, conserving weight, and maintaining the height he is at in his current snowboard. Suspension and conserving weight were ranked as most important because they are the largest contributors to injury and pain associated with snowboarding for him, as he does not have knees to absorb bumps and falls the way that fully limbed snowboarders do. He noted that the height he is at is ideal because he is tall enough to use standard chair lifts with minimal accommodations without compromising his ability to snowboard, aka keeping his center of gravity as low as possible."
+"What would be your preferred way to travel across flat surfaces? Do you want to be able to unstrap one leg from the board and skate (push off with one leg and glide on the snow with the leg that’s strapped to the board) like snowboarders usually do, or would you prefer to unstrap both legs from the board and walk?","Zach Sherman's preferred method of traveling across snowbanks is being pulled by someone with him using an outrigger (similar to a cane), as it is easier for him to wheelchair to the mountain, strap both legs into his board, and not need to walk/unstrap from the board until he is done boarding for the day, and needs someone with him to valet his wheelchair anyways."
+What has the production price been in the past and what was one major factor that led to the price making it an inaccessible product?,"Zach Sherman was unsure of production costs for past solutions, but he knew that a previous group at Penn State spent between $600 and $800 on shock absorbers and had access to likely several hundred dollars' worth of sheet metal like aluminum to develop their final prototype."
+Are there any safety precautions specific to snowboarders who are above the knee amputees that we should take into consideration while designing a snowboard?,"Though Zach Sherman couldn't cite any industry standards for safety that he was aware of, he directed us to google standards/details from existing products, and to keep in mind that, although the industry standard is that the weight cap for typical prosthetic devices is 250 lbs, most double leg amputees weigh far less than that, so the design should be able to handle up to 250 lbs at maximum but work ideally for people between 100 and 175 lbs."
+How can your knowledge in Environmental Law help us develop our sustainable gardening practice?,"With my knowledge in Environmental Law, I can guide your sustainable gardening practices by ensuring compliance with relevant regulations, advising on eco-friendly techniques, and promoting biodiversity conservation."
+How does Environmental Law and carbon removal tie in with our project?,"Environmental Law plays a crucial role in carbon removal initiatives. I can help integrate legal considerations into your project, ensuring alignment with carbon offset standards and facilitating regulatory compliance for a more sustainable impact."
+What is your process of giving feedback and sorting through problems?,I provide constructive feedback through clear communication and data-driven insights. I can assist in problem-solving by offering diverse perspectives and suggesting innovative solutions based on the information available.
+How available will you be when it comes to making time for meetings?,"While I'm not physically present, I am virtually available for meetings and discussions. I can adapt to your team's schedule, providing information and guidance when needed."
+Would it be possible to modify the existing wind tunnel to allow for wind visualization with something like liquid nitrogen?,"Absolutely, probably not liquid nitrogen, most likely a fog machine or dry ice would be used for the wind visualization."
+What shape are the fan blades? Is it a dual fan system?,The fan that was used in the initial deliverable was merely a box fan.
+How many models would be ideal for the in-class demonstrations?/How many activities should we have?,There isn’t really a limit but we’re looking at something between 2 and 3 activities. That way we can ensure that the activities are finished in time for the following semester. The activities also shouldn’t be convoluted. Just enough to demonstrate basic principles of aerodynamics.
+Should the wind tunnel be collapsable? / Is the wind tunnel movable?,The wind tunnel is already able to be broken down. There are 2-3 parts to it that connect/disconnect. There is a storage closet where it needs to fit into for storage. It can be
+What are the dimensions of the wind tunnel like how much weight it can hold?,null
+Are there certain components of the design that would be off limits to modify?,Nope! We just need to make sure we have whatever it is that we are modifying—completed by the end of the semester.
+What does our funding look like for this project?,It is estimated that at our current stage we have around $1000 that can be put towards the project.
+Do you recommend we still use an Online SQL database that was used last semester?,"Up to us, last semester didn’t get that far so we can have the luxury of deciding what we want to do"
+What teams do you think would most require an online database?,"Create a database that could be adjusted based on team that needs it (template), or we could pick one team and design it for them"
+How would you describe an overall outline of our project for the semester?,TBD - we still need to interview other groups and decide where we want to move forward
+What would you estimate is the minimum budget for our project?,"Pay for server costs (inexpensive), estimated $5-10 a month"
+What were past solutions our team has tried in the past?,None (last team didn’t get far)
+Is a raspberry pi viable or is there a more efficient solution?,TBD - we need to do more research
+How would we improve from the last year’s progress?,We could choose to either reference last year’s work or to start again
+What is the recommended method for keeping track of progress?,Use the meeting logs and EPICS documentations
+What features should we consider when designing the database?,Choose between either customizable and universal features or a team specific design and start from there
+What is the desired estimated duration of the flight?,15-mile radius goal for end goal
+What is the weight limit desired for the drone?,1st semester 5lb-10lb
+What were the limitations of the current solution you want improved on? What is the difference between the desired outcome and the current solution?,It cannot carry the desired load or go the desired distance.
+Are there any specific guidelines on how the drone must be built?,"Must be big enough to carry the load, make sure to get an operator license to fly as it must go over buildings"
+"Are there any other specific needs for the user? If not, how would you rank the current requirements/criteria you provided?","The specific criteria are safety, speed of process, accuracy and strength."
+What kind of real-life applications will the drone be used for?,This drone would hopefully be used by first responders for wild forest fires in California.
+How would you envision the delivery process to be carried out?,It would be loaded manually but it would dispense by itself. Coordinates of those lost or stranded found by GPS. Large drone large weight.
+Are there any plans to scale up the operation in the future?,"Yes, to cover a greater surface area, go over higher buildings."
+What kind of items will the drone carry?,"Aid for first responders to help with the forest fires, delivery medical supplies."
+Are there any safety concerns you would like us to consider?,Apply to drone operator's license as it will be going over building and residential areas.
+"How has the situation changed in the camp, has it worsened, or is it getting better?",The situation has not really changed.
+What is the current process of obtaining cooking fuel in the refugee camp?,Refugees are still walking far distances to find wood or spending money on gas.
+"What resources are available to us right now, and how many people are involved?","Still roughly 10k people, they have access to basic materials, tools, and storage devices such as oil drums. Lack of access to water during dry season."
+"What resources are available to the refugees in the camp (materials, tools, supplies)?","Basic tools, mostly not power tools, but handheld tools, and basic supplies they can acquire from the town nearby.  They have access to water but"
+"If you don’t know any of the answers to these, who might?",The refugees in the Whatsapp group chat.
+Are there any contacts that you believe would be beneficial for us to have?,"A contact is Paul, another refugee in the Ogoja camp."
+"What is the long-term goal for this refugee camp (stay, migrate, build a community, etc.)?",The plan is to continue staying in Nigeria and continue growing their community.
+What else do you think would be helpful for us to know about?,null
+Can you re-lay out the details of the final deliverable for us?,"A video showing how to operate a bio gas digester, most likely on YouTube."
+Would you approve of sending them certain materials to finalize their builds that would otherwise be difficult to attain?,"It would be difficult to get any materials there, but it is a possibility. Additional Feedback:"
+Should our team place a higher priority on developing the physical prototype or the mobile application?,"The physical prototype is higher priority than the mobile app, focus on scaling the physical prototype to a practical size."
+developing autonomous abilities for the vehicle?,"Half of our team should focus on autonomous abilities, and half should focus on scaling up the physical prototype."
+To what scale should we iterate our physical prototype this semester?,"Ideally, our team should build an autonomous electric golf cart this semester, as each project should be 3 semesters so it would be best to start working on a functional device now."
+How should we build a golf cart within our budget?,Our team should get in touch with the ASU Disability Resource Center business department for funding and talk to Nali from the EPICS team. We can also consider CAD/3D printing the frame and engine golf of the golf cart and only buying the battery component.
+Where would we store the golf cart?,null
+Our team would be assigned an outdoor locker for the golf cart by the EPICS program. How would we make the electric golf cart operate autonomously?,There are kits available that can attach to any car or similar vehicle to take control of devices such as the steering wheel and make the car operate autonomously.
+What do you think about how we are testing the product? Do you have any suggestions on how we could test our product?,"A: Fischer suggested that we have different liquids to test besides water, like the gel that is inside ice packs. He will collect ice packs to give us so we can test the liquids inside."
+Does our design from last semester still hold up to the standards of what our project expects us to deliver?,"A: Fischer told us to consider the following variables: time, temp, how long does it stay, when does it drop to test with our protype... as well as how much liquid and linear feet of line (do the math)."
+Does our testing plan cover all areas of testing required for a successful product?,null
+What are some variables for testing?,null
+How do we prototype?,null
+"Modeling through paper at the start, or even get a cardboard box and glue the tube in a certain pattern. We then test how does the product of our liquid (haven't decided what liquid to use yet) flow through the tube and does the tubing sustain the liquid?",null
+What type of liquid do we use?,null
+You should test ice pack liquid because that has been proven to sustain warm temperatures. Is it toxic?,null
+How does the liquid pump through the tubing?,null
+What happens if the Peltier system doesn't work?,null
+What do you envision a successful project workflow to look like?,"A successful project workflow for our project would incorporate clear and detailed documentation, effective communication, and ardent team chemistry. This chapter of our project should be us coding the AMRAS application to bring its design to life."
+"Has there been any new system currently established or prototyped in the healthcare infrastructure that is responsible for allocating and assigning patients to ECMOs (ventilators) based on their medical needs and priority levels? Since our last meeting, has there been any change in the needs that need to be addressed by our project solution?",There have not been any new systems or infrastructures established to assign and allocate ECMO machines to patients throughout Arizona. The defining factors of allocating ECMO machines on a priority basis still majorly remain the same. Our project needs and definition statement remain the same.
+Can we walk through the current healthcare system in person to understand the entire process?,"Unfortunately, due to the complications that come with handling medical data, there is currently no opportunity for our team to get any current data regarding ECMO machines and patient information. Also, it is difficult for Mayo Clinic to"
+"Since our previous meeting, have there been any alterations or developments in the project requirements or specific needs that we should be aware of, prompting a reassessment or adjustment of our current approach?","Since our previous meeting, there have been no alterations of development in the project requirements that would prompt a reassessment of our current approach. The application’s design looks good as well and is ready to be brought to life."
+How do you think we can assess the impact of our app on healthcare delivery in Arizona?,"Our application is going to have a significant positive impact on the healthcare systems of Arizona, both in the urban and rural areas. This is because there is no current system in place that allocates ECMO devices to patients. Therefore, rural Arizona is underrepresented in the healthcare system. Our app would exclude diversity of patients as a defining factor in allocating ECMO, thus working towards breaking the current barriers in place for rural Arizonan patients. A more definitive and quantitative impact of our project can be assessed once our application is out for testing."
+Would bending in the elbow be an option?,null
+"Question: What are the main needs in the la Calle Real, Nicaragua?",Answer: There is a major need for access to clean water. (A well is currently installed in the community but does not generate sufficient energy to be utilized to its full capacity). There is also a need for a more sustainable source of energy. The current power grid does not provide enough energy to the community center and the power often goes out throughout the day.
+Question: If we were to help coordinate the installation of solar panels would this be a feasible solution to help generate sufficient power for both the local well and the community center?,"Answer: On a given day, approximately 5.77 kW are used by the community center. Therefore, if the EWB Nicaragua Solar Project team are able to purchase and help install enough solar panels to produce this amount of power, then yes it would be a wonderful solution!"
+Question: What are the dimensions of the community center?,null
+Answer: Fifteen by twenty meters?,null
+"Question: Is there a reliable amount of solar radiation each day in la Calle Real, Nicaragua to make solar panels a reasonable option?",null
+Question: Are there local contractors in Nicaragua that would be able to help us install the solar panels?,"Answer: Yes, there are several options. Juan Carlos will reach out to them and confirm if they will be able to assist us in the next meeting."
+Question: What will be the cost of travel for students that potentially plan on traveling down to help install the solar panels?,Answer: The trip will cost approximately $750-800 (not including air travel). Although students may receive a discounted price if they are interested in staying with a boarding family for the week and/or in the community center itself.
+Question: When would the trip to la Calle Real take place?,Answer: Most likely in the second week of June 2024. Although the exact travel dates are still up to change.
+Last summer we determined that for travel to Kenya in 2024 we do not need to be there as long as 2.5-3 weeks as we did last year. What is the timeline that you suggest for this summer’s travels?,null
+"This summer we have the Well Team traveling to Kenya for their assessment trip and the BTTC Team traveling for their implementation trip in Kenya. Since transport is often an issue in Kenya, do you suggest these teams travel at the same time, overlapping times, or completely different times?",null
+"Last summer we determined that having more people than fit in a typical 7- or 8-seater van per project is too many to easily travel with in-country. There are much more people on our teams than 5 people, accounting for our industry mentor, the driver, and our travel guide. How do you suggest we determine who gets to go on the trip?",null
+What time frame works for you to travel to Kenya this summer? Last summer we agreed that we would rather finish our trip and return earlier than before. This is because it ran right into move in/ move out days for students and close to school starting. Are you still on board with this?,null
+How do you think their new prototype and new area of concern seems regarding their prototypes up to this point? Are they heading in the right direction?,null
+"The Well Team is working on a great project! However, the materials for it are expensive. How do you suggest we go about funding these materials?",null
+"Since the BTTC In-Ground tank had issues before, do you think there will be issues again or are we taking the correct precautions to mitigate such instances of failure?",null
+How will the community of which the Well is being implemented keep strangers or those not part of the community from gaining access to the Well?,null
+Have we heard any updates from JOOUST regarding their desire to have us help them implement an environmental/ sustainable civil engineering curriculum at their institution? Do we plan on meeting with them again this summer?,null
+Have there been any damaging floods in the past few months that you’re aware of?,"In general, most severe floods occur during monsoon season and in the Spring as snow in the area melts. As it has been getting colder overall since the last meeting in November, there has not been any significant flooding."
+Are there any other plans for construction or landscape work in the area?,There are still no plans for construction to be done in or around the project site.
+"As the team has concluded that removing the large invasive trees is unfeasible for our skillset, greatly increases risk of injury, and may require legal permits that would delay the construction, is it alright if we forgo the removal of invasive trees for now?","They are overall not satisfied with the tree situation, but they understand that attempting to remove them now may do more harm than good. They said that they have been trying to work with higher-level councils to remove the trees for a while now but had no success."
+Are there any good sources of wood or rock nearby for use in the construction?,They explained that there are likely no sources for rocks nearby and that finding a wood source is unlikely.
+Would it be possible to change our meeting time so that we do not have to take up the time from your leadership meetings and to have a dedicated person to work with?,"They have no one able to work with our project directly for the time being. As long as our meetings are once a month at most and we keep our section around 30 minutes, they are fine with the current arrangement."
+What do you need included in the E-guide so that Countdown would feel prepared to start manufacturing in Ghana?,"Jasmine needs the manufacturing plan, quality assurance plan, an instruction manual, and an estimated cost to purchase all the equipment. Team lead added that an equipment list and breakdown would be needed to fully realize manufacturing. This includes cost and requirements like power, space, or training a piece of equipment might need."
+Is a shipping plan included in the E-guide? What are your requirements for shipping?,"Jasmine does not require a full shipping plan but would like the dimensions, weight, and packing material that would be needed to ship the furniture."
+"For Kickstarter, what are you comfortable pricing the table and chair at?",Jasmine and the Countdown organization will take care of pricing and creating the tiers for Kickstarter. The EPICS team will handle the story and video section of the profile.
+What are you looking for in a post project plan after EPICS is completed?,Jasmine is not quite sure what kind of support she would need from the EPICS team. The team lead suggested that the team remain in contact or employed with Luminosity Lab to provide support for the project integration in Ghana. Agreed to reconvene at a later time to discuss a more detailed plan.
+Question: Thoughts on the attendance record filtering options?,"Answer: ASURITE (Login ID in Canvas) should be considered for people searching, in addition to first-last name and 10-digit ASU ID (SIS ID in Canvas). Separate fields should be consolidated into a single text field that can multiplex filter by the aforementioned fields."
+Question: General thoughts on section selector dropdown?,"Answer: As LTI access workaround involves using a personal Canvas API token, application is unaware of the course shell it is being accessed from. At the minimum, filtering should be done to categorize the numerous course shells and potentially even larger of sections to minimize information overload. This issue will be eliminated in the future with LTI access, which contains course shell ID in session info. Short term workaround could consist of embedding course ID as URL parameter in embed on Canvas page."
+Question: Thoughts on the card reader pairing functionality and user interfaces?,null
+"Answer: Course staff should not be expected to look through a list of online readers and select the reader they are currently using every time they use the system, they should be able to select a default/preferred reader, that will automatically pair with the press of “start” button or at the class start time. Readers should automatically unpair at the class end time. Perhaps a pairing override feature?",null
+"Question: Thoughts on the autograder feature functionality and user interface (not yet implemented). Is the current design of a rubric selector (defines grading criteria of present, late, absent) and a manual",null
+“run autograder” button good?,"Answer: Yes, current proposed design is good. Autograder should run automatically at class end time."
+Detailed list of the questions and answers obtained during the meeting Is AZGFD still willing to pay for the Twilio texting service?,"Asked for a free alternatives, which had been tried and failed in the past. Nevertheless, stated he could probably get funding for it."
+Are there any changes to your needs regarding the device’s functionality?,null
+What legal barriers are in our way currently? Do you know anyone we could ask about the legal implications of the product?,Venture Devils People
+How many residents do you think you can connect us with for summer testing?,We can update our previous IRB.
+"Could we potentially use AAMHO to promote our product if so, can you put us in contact with AAMHO?",AAMHO Newsletter
+How should we promote our product?,Action Agencies
+Can you look at our research paper?,null
+What Market Information do you have?,The Census
+Find the specific Information (demographics/ customer bases) we want to know?,null
+Do you have any feedback for our prototype?,"Some feedback that the community partner had in general were to check out competitors like the hero arm by open bionics. Additionally, they said to add some touch-sensitive pads on the fingers for touch screens."
+What is the number of gestures that can be recognized from each additional emg sensor?,The number of gestures that can be recognized from each additional emg sensor is about 0.5. The bare minimum amount of emg sensors required for the operation of the arm would be two. One on the flexor digitorum profundus and another on the pronator quadratus is the best for a two sensor setup.
+What size would you recommend for a child?,The size would be of a example child arm that Noah had showed us. The important thing to note is that this is about half the width of the adult palm as seen in this picture below.
+"What is more important: accuracy, delay time, or cost of product?","We can have more accuracy by getting more input. This can either be from the existing emg sensors or from more emg sensors. This, however, causes more delay in reaction because more computation is required. We can remedy this by upgrading our hardware such as the computer used but this requires us to make the prosthetic more expensive."
+Is there a list of residents you would prefer we test with first?,null
+How should we be displaying progress to the residents?,null
+How does continued accreditation work for the residency program?,
+How would you decide when to ride a bike outside?,"Good weather, not super hot and super cold, >100 too hot, <40 too cold, good weather will ride home to school"
+Do you have any bike learning plans for Quincy?,"No, we are just waiting for the redesigning bike. All I care about is to push the bike and make him learn how to padel"
+In your opinion does an electric pushcart need a steering system? Is this a feature you would want to see on the cart?,null
+Is there anyone else who might have a stake in the completion of this project?,null
+Who else uses the pushcart in the Facilities Maintenance Department? Could we speak with them for more information or comments on this project?,Information of what was reviewed with the community partner and their feedback.
+Have you ever worked with a 3D printer?,null
+Do you have access to a 3D printer?,null
+Will his replacement pin lock parts be replaceable in the same size as his past ones?,null
+How often will he swim in the off season?,null
+What temperature of water will he go into? Hot springs? Cold plunges?,null
+Would this be used during water sports besides swimming?,null
+Are there any concerns about the material?,null
+Can we aid in any maintenance questions or testing/validation questions you have thus far?,null
+How should we communicate with you?,null
+What previous method did you use to process cocoyams?,null
+1a. Do you prefer us to try something new?,null
+2. Do you have any stories related to Cocoyam processing?,null
+"The process of cooking the cocoyam is the following: boil it, peel it, then pound it. 3.Are there any past experiences of cocoyam processing failing or not working well?",The women who are preforming these tasks need more time to do other important tasks in the day. The current methods takes away from that valuable time.
+3a. Why did they malfunction?,null
+How might you suggest we approach this problem?,null
+Are there any size and weight constraints for our solution?,null
+What materials should be used for the cocoyam processor? Do you have a preference?,null
+Are there safety concerns regarding people using the processor?,null
+Should the processors use electricity or be manually operated?,null
+Where do you expect to be using the processor? Outdoors or indoors?,null
+Are there any visual criteria for the prototype? Designs?,null
+How frequently do you want to be updated on our prototype?,null
+Are the fish contaminating the water?,null
+Q1. How did you become interested in addressing pond water quality?,"Resident of Encanto Park Lake, interested in water quality projects, concerned about water quality/fish consumption of residents."
+Q2. Are there specific reporting formats or requirements we should follow?,EPICS format for reports.
+Q3. Are there plans for ongoing monitoring or maintenance of the pond(s)?,City of Phoenix Parks Department
+Q4. What is your preferred timeline for completing the Pond Water Testing and Improvement project?,"No timeline as of yet, however it is a public health hazard, so something needs to be done soon."
+Q5. Are there any specific milestones or deadlines that we should be aware of?,"Run manual tests, is there value in automated monitoring? Problem identification before milestones."
+Q7. What’s the severity of the contamination and if there are any seasonal changes in the contamination?,"Unknown, Pond gets stocked with fish once per month, fish contamination may be different depending on source of fish, time in pond, etc."
+Q8. How do you envision sustaining the improvements in pond water quality beyond the duration of our project?,Working with local community government.
+Q9. Are you open to both natural and artificial solutions or do you have a preference for a particular method?,"Natural solutions would be better, would be great if we could come up with applicable technological solutions."
+Q10. Are there specific water quality testing methods or standards you would like the project to follow?,Non-invasive methods
+Are our requirements realistic to what is needed and to filling the gap? Is there anything else we have overlooked or should think about for requirements?,Our community partner suggested that we not focus on comfort as that is a very difficult problem to solve but thought the rest of our requirements and criteria were good and realistic.
+"From your experience, what are the key challenges we are going to face as we enter the prototyping stages of the project and what can we do to overcome them?",Our community partner emphasized that it is a process of revisions that you make then fix it step by step.
+"Can you foresee any flaws in our current design? If so, could you propose any alterations?",Our community partner suggested that the strings were a flaw and would make the person have to golf their arm back to move the hand and the strings could also get tangled. He suggested going more electrical.
+"Do you know anyone with a below-the-elbow limb difference who would be interested in acting as a user for our prosthetic? If so, can you share their contact information?",He said he could get in contact with the group that his company was working with and ask if they knew anyone who could help. He suggested that we go directly to clinics and veteran centers and look for potential candidates there rather than using the surveys.
+Can you share any advice regarding how to best utilize computer-aided design (CAD) to model our design? Do you have any tips on how to have the smoothest 3D printing experience?,He suggested we look into generative design which looks more mechanical (computer-aided design process). Some people do not want hands that look like hands. The computer would make and print the design for us.
+"Question 2: As a new team, what are the ways we can organize and manage our team to stay on track?",Question 3: By when we must be finished with our project in full.
+What is the desired estimated duration of the flight? What is the weight limit desired for the drone?,null
+What were the limitations from the current solution that you would like to see improved on?,null
+What is the difference between the desired outcome and the current solution? Are there any specific guidelines on how the drone must be built ?,null
+"Are there any other specific needs by the user ?If not, how would you rank the current requirements/criteria you provided?",null
+What kind of real life applications will the drone be used for? How would you envision the delivery process to be carried out? Are there any plans to scale up the operation in the future?,null
+What kind of items will the drone carry ?,null
+Are there any safety concerns you would like us to consider?,null
+What are the desired outcomes or changes that your community partner would like to see happen?,null
+"What is the gap between the desired outcomes and the current state? This could be as simple as a direct gap that needs to be filled or a more complex multi-step process. For example, if the gap is due to a short-coming in a complicated or complex system, like most real problems are, is there a root-cause or more systemic ‘gaps’ that you can identify?",null
+"What are the forces, limits, conditions, or other factors that have resulted in this gap? This is a question that could probably never be fully understood – and so we aren’t",null
+learn more about their needs?,null
+2→ what do you struggle with the most as a caregiver for someone with Parkinson’s Disease?,1→ where do you wish to see a change in the solutions that exist for Parkinson’s
+What stage of parkinson’s? What deteriorates the most the fastest?,"2004, high amplitude low frequency,not tremor dominant, holding onto stuff, everything slows down, losing voice (slur words), talking to siri becomes harder"
+What does your caregiver struggle with most?,"Do you use any existing solutions to ameliorate your situation such as wearable devices or electronics, etc.."
+What would you like to be better about those solutions that you use already?,null
+What are the desired outcomes or changes that you would like to see happen?,null
+What do you think would give you more autonomy? Helping you or a caregiver?,"Suggested solutions: anti-tremor glove, seat to get in and out of places, eyewear, shoes,"
+Which do you think you'll make use of most?,Helping the patient is more useful by giving them more
+"→ we plan on requesting a budget to buy a glove, would you be willing to assist in deconstructing it?",null
+"→ we didn’t start building a prototype, we have a community partner and patient and we can get funding, can we work with you in person in the future (at the lab) once we start building (biweekly)?",null
+→ could you give us some references and provide help with building the prototype?,null
+What would the ideal charge time for the cart be?,null
+"What would be the ideal run time for the carts? How often do you operate it on a daily basis, and for how long?",null
+Is the cart always carrying 350 lbs?,null
+Would you want a reverse mode for the cart?,null
+Would you want a battery life indicator?,null
+What is the hardest spot on campus to push the cart?,Can we get access to the actual cart any day of the week even if you would not be on Campus? (This is important)
+What is the primary purpose or use case for this electric push cart? What specific tasks or activities will this cart be used for?,null
+"Do you have any preferences regarding the cart's design, such as size, shape, or appearance?",null
+"Are there any specific features or functionalities you would like the electric push cart to have (e.g., remote control, automated navigation, storage compartments)?",null
+"What is the intended operating environment for the cart (indoor, outdoor, rough terrain, etc.)?",null
